@@ -1,0 +1,57 @@
+<adoptionSys>
+	<pet>
+		<id>1</id>
+		<name>Max</name>
+		<type>dog</type>
+		<age>3</age>
+		<gender>Male</gender>
+		<description> He is a cute, cuddly and handsome boy.</description>
+		<image>Images\dog_1.jpeg</image>
+		<password>abc123</password>
+	</pet>
+
+	<pet>
+		<id>2</id>
+		<name>Lulu</name>
+		<type>dog</type>
+		<age>7</age>
+		<gender>Female</gender>
+		<description> She is a cute little girl. </description>
+		<image>Images\dog_2.jpeg</image>
+		<password>abc123</password>
+	</pet>
+	
+	<pet>
+		<id>3</id>
+		<name>Baby</name>
+		<type>cat</type>
+		<age>1</age>
+		<gender>Female</gender>
+		<description> She is cuddly and playful.</description>
+		<image>Images\cat_3.jpeg</image>
+		<password>abc123</password>
+	</pet>
+	
+	<pet>
+		<id>4</id>
+		<name>Kat</name>
+		<type>rabbit</type>
+		<age>2 months</age>
+		<gender>Female</gender>
+		<description> She is naughty.</description>
+		<image>Images\rabbit_4.jpeg</image>
+		<password>abc123</password>
+	</pet>
+
+	<pet>
+		<id>5</id>
+		<name>test</name>
+		<type>rabbit</type>
+		<age>2 months</age>
+		<gender>male</gender>
+		<description> She is naughty.</description>
+		<image>Images\rabbit_4.jpeg</image>
+		<password>abc123</password>
+	</pet>
+	
+</adoptionSys>
